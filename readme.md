@@ -1,0 +1,1 @@
+Aqui vai o meu primeiro Commit da vida no curso da Trybe, aonde vou agregar e me dedicar para realizar o meu crescimento profissional e minha liberdade financeira, um curso que tem sido até o momento bastante positivo para mim que acredito ter bastante potencial pro meu futuro.
