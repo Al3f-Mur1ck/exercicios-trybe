@@ -1,3 +1,11 @@
+
 - Ingles
 - Novas habilidades
 - Teste
+- Unix
+- Bash
+- Git
+- HTML
+- CSS
+- SoftSKills
+- VSC
