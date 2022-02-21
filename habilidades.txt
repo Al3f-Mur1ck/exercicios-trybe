@@ -1,5 +1,7 @@
-O que eu vou aprender na Trybe:
 
+- Ingles
+- Novas habilidades
+- Teste
 - Unix
 - Bash
 - Git
