@@ -1,2 +1,6 @@
 Meu primeiro repositório Git.
 - Programar em Java
+- Java Script
+- Ingles
+- Novas habilidades
+- Teste
